@@ -32,10 +32,16 @@ end
 # Include Bootstrap
 gem 'bootstrap-sass', '~> 3.3.5.1'
 
+# Include Simple Form
+gem 'simple_form'
+
 gem 'sprockets', '2.11.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails'
+
+# Adding Pagination
+gem 'kaminari', '~> 0.16.3'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
