@@ -43,6 +43,9 @@ gem 'sass-rails'
 # Adding Pagination
 gem 'kaminari', '~> 0.16.3'
 
+#Include devise gem
+gem 'devise', '>= 3.2.4'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
